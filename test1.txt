@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 8429-50BD
+
+ Directory of C:\Users\nmaddala\Desktop\MyProject
+
+11/24/2018  01:57 PM    <DIR>          .
+11/24/2018  01:57 PM    <DIR>          ..
+11/24/2018  01:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  190,962,905,088 bytes free
